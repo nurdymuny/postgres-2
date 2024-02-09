@@ -32,7 +32,7 @@ def scrape_site(url, session):
 session = requests.Session()
 
 # Starting URL provided by the site owner
-starting_url = 'http://internal.example.com'
+starting_url = 'http://marcella.ai'
 
 # Start the scraping process
 scrape_site(starting_url, session)
